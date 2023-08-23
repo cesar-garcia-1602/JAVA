@@ -1,6 +1,14 @@
 package com.example;
 
+/**
+ * Clase de prueba para crear un programa basico en Java
+ */
 public class AdiosMundo {
+    /**
+     * Punto de entrada a la aplicación Java
+     * permite ejecutar la aplicación
+     * @param args - argumentos de entrada para la aplicación
+     */
     public static void main(String[] args) {
 
         // esto es un comentario
