@@ -9,11 +9,11 @@ public class introduccionEjercicio6 {
         (a+b)^2 = a^2 + 2ab + b^2
          */
         Scanner entrada = new Scanner(System.in);
-        double num1, num2, cuadrado;
-        System.out.print("Digite el primer numero: ");
-        num1 = entrada.nextFloat();
-        System.out.print("Digite el segundo numero: ");
-        num2 = entrada.nextFloat();
-        cuadrado = Math.pow(num1,2) + 2*num1*num2 + Math.pow(num2,2);
+        double a, b, cuadrado;
+        System.out.print("Digite el primer numero (a): ");
+        a = entrada.nextFloat();
+        System.out.print("Digite el segundo numero (b): ");
+        b = entrada.nextFloat();
+        cuadrado = Math.pow(a,2) + 2*a*b + Math.pow(b,2);
         System.out.println("El resultado del cuadrado de la suma es: "+ cuadrado);    }
 }
