@@ -2,6 +2,7 @@ package com.Variable;
 
 public class Variable {
     public static void main(String[] args) {
+
         // ******************* TIPO DE DATOS PRIMITIVOS *********************
         // byte, short, int, long
         byte entero = 12;
