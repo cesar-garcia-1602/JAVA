@@ -7,7 +7,7 @@ public class condicionalesEjercicio7 {
         /*
         Pedir 3 numeros y mostrarlos ordenados de mayor a menor
         */
-        
+
         float num1, num2, num3;
         num1 = Float.parseFloat(JOptionPane.showInputDialog("Digite el primer numero: "));
         num2 = Float.parseFloat(JOptionPane.showInputDialog("Digite el segundo numero: "));
