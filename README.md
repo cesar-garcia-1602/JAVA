@@ -1,1 +1,1 @@
-![https://github.com/cesar-garcia-1602](https://github.com/cesar-garcia-1602/cesar-garcia-1602/blob/main/Banner.png)
+<a href="https://linkedin.com/in/césar-daniel-garcía-ramírez-490186216/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="rishav-chanda-b89a791b3" height="40" width="40" /></a>
